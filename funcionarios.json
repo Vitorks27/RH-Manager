@@ -1,0 +1,14 @@
+[
+    {
+        "nome": "Vitor Kennedy dos Santos Silva",
+        "cpf": "000.111.222-33",
+        "email": "vitorteste@gmail.com",
+        "telefone": "(96)991000000",
+        "cargo": "Analista",
+        "departamento": "TI",
+        "salario": "2.300",
+        "admissao": "25/11/2006",
+        "status": "Ativo",
+        "id": 1
+    }
+]
